@@ -2,3 +2,4 @@
 
 Ovo je jednostavan statički veb sajt izrađen kao primer za projekat/seminarski rad.  
 Sadrži dve strane (Početna i O sajtu) i osnovno stilizovanje pomoću CSS-a.  
+Verzija 1.1 - mala izmena u README
